@@ -39,8 +39,3 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harekrishnashah13&show_icons=true&theme=default" alt="Harekrishna's GitHub stats"/>
-</p>
