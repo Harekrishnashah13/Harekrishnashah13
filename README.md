@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Databricks+Certified+Data+Engineer;Building+AI-Powered+Data+Platforms;Python+%7C+SQL+%7C+Spark+%7C+Azure;Open+to+Data+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Databricks+Certified+Data+Engineer;Building+AI-Powered+Data+Platforms;Python+%7C+SQL+%7C+Spark+%7C+Azure;Open+to+Data+Analytics+Opportunities" />
 </p>
 
 ---
